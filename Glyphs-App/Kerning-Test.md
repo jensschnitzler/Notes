@@ -4,9 +4,9 @@
                                              
 1. festlegung des fleisches bei H ///HHHHHHH
 ca. 30-50% des binnenraumes
-2.festlegung des fleisches bei O /// HOHOHOHOHO
+2. festlegung des fleisches bei O /// HOHOHOHOHO
 etwas kleiner als H
-3. wenn OK
+3. wenn OK:
 
 richtwerte:
 grossbuchstaben
