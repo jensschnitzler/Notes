@@ -8,6 +8,7 @@ https://www.alphabet-type.com/fontengineering/
 2. *Spacing*
 
 https://glyphsapp.com/tutorials/spacing
+http://www.fermello.org/FernandoMello_essay.pdf
 
 3. *Kerning*
 
