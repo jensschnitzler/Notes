@@ -5,17 +5,21 @@ _What's a 'normal', elaborate, sophisticated font production process?_
 
 https://www.alphabet-type.com/fontengineering/
 
-1. *Draw Letterforms*
-2. *Spacing*
+* *Outlines*
+* *Draw Letterforms*
+* *Set Extreme Points*
+
+* *Spacing*
 
 https://glyphsapp.com/tutorials/spacing
 http://www.fermello.org/FernandoMello_essay.pdf
 
-3. *Kerning*
+* *Set up Kerning Groups*
+* *Kerning*
 
 https://glyphsapp.com/tutorials/kerning
 
-3.1. Kerning Groups
+
 
 *Italics*
 https://forum.glyphsapp.com/t/putting-italic-and-upright-in-the-same-master/5522/9
