@@ -3,6 +3,8 @@ _What's a 'normal', elaborate, sophisticated font production process?_
 
 *Ressources*
 
+https://ilovetypography.com/2007/10/22/so-you-want-to-create-a-font-part-1/
+
 https://www.alphabet-type.com/fontengineering/
 
 * *Outlines*
