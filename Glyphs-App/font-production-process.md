@@ -1,6 +1,9 @@
 # Font Production Process
 _What's a 'normal', elaborate, sophisticated font production process?_
 
+*Ressources*
+https://www.alphabet-type.com/fontengineering/
+
 1. *Draw Letterforms*
 2. *Spacing*
 
